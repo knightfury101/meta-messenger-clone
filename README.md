@@ -11,9 +11,8 @@ This is a real-time messenger clone with the latest web technologies.
 - Key features of this project includes real-time messaging, notifications, and alerts using Pusher.
 - Additionally, it has a sleek UI design with TailwindCSS, authentication with NextAuth, and integration with Google and Github authentication.
 - Other features of this project includes file and image uploads using Cloudinary CDN, client-side form validation with react-hook-form, and server error handling with react-toast.
-- You can create chat rooms, channels, and group chats. Engage in one-on-one messaging, message attachments, and share files.
-- You can customize the user profile and settings.
-- Real-time 'Active' and 'Offline' state. 
-- Real-time read receipts state. 
+- The project enables users to create chat rooms, channels, and group chats, as well as engage in one-on-one messaging, message attachments, and file sharing.
+- You can customize the user profile and settings to your liking.
+- Real-time status indicators for "Active" and "Offline" users, as well as real-time message read receipts.
 
 [LIVE DEMO](https://meta-messenger-clone-aa2r.vercel.app/)
